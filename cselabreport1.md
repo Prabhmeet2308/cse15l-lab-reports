@@ -42,9 +42,10 @@ It will prompt you for ieng6 password and use ls to check if the file was transf
 
 To avoid entering password every time you login or run scp command  we set ssh keys.
 On your client enter ssh-keygen command then enter the file to save the key. Then it will prompt for enter passphrase which should be left empty. After that follow the following commands
+```
 “ssh cs15lsp22zz@ieng6.ucsd.edu
 Enter Password
-```# now on server
+# now on server
 $ mkdir .ssh
 $ logout
 # back on client
