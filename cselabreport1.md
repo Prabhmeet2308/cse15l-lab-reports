@@ -1,4 +1,6 @@
 **LAB Report 1**
+
+
 To start with the cse lab before the 1st lab change your password by following the guide provided by the professor
 
 During the first lab the first step would be to install VSCode. For that go to 
