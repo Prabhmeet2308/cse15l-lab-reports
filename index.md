@@ -17,6 +17,7 @@ After this if it is your first time connecting to a server you will get a messag
 After successfully logging in try some commands on both your computer and the remote computer. Some of these commands include cd, ls and their variations like ls -a ls -l , ls -t also command exit when logged in remote computer. You can have multiple terminals on VSCode which can be very helpful.
 
 ![LAB1-3](https://user-images.githubusercontent.com/103228599/162647070-dce7f24f-94a9-4b03-b89a-3047e76f3cc8.png)
+
 ![LAB1-4](https://user-images.githubusercontent.com/103228599/162647071-130d363b-7ec6-4397-a788-205144942ef9.png)
 
 
