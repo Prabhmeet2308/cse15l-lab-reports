@@ -1,11 +1,11 @@
 **LAB Report 1**
 
-
 To start with the cse lab before the 1st lab change your password by following the guide provided by the professor
 
 During the first lab the first step would be to install VSCode. For that go to 
 [VSC Download Link](https://code.visualstudio.com/) .Install the version for your operating system for me it was OSX(for mac). After downloading install the file in your application folder(for mac).
 This is what the VSC looks like
+
  ![LAB1-1](https://user-images.githubusercontent.com/103228599/162647026-6ae9bd7f-13ff-457b-8379-c4052504947e.png)
  
 To remotely connect you would need the course specific account for CSE 15L class 
