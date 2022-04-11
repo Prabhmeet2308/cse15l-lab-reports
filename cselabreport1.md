@@ -39,6 +39,8 @@ cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys”
 
 ![LAB1-6](https://user-images.githubusercontent.com/103228599/162647147-bc544f73-3415-4040-b2f0-08d4d0f648af.png)
 ![LAB1-7](https://user-images.githubusercontent.com/103228599/162647153-04dad844-175d-446b-ab6d-91c460565a3d.png)
+
+
 To optimize remote running
 To optimize you can write a command at the end of the ssh command to directly run it on the remote server. You can use semicolons to run multiple commands together. You can also use the up arrow key on your keyboard to recall previous command to save time.
  ![LAB1-8](https://user-images.githubusercontent.com/103228599/162647154-06ed2ef0-5573-4a01-84f8-fe0c895aaf51.png)
