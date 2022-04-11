@@ -33,11 +33,17 @@ To avoid entering password every time you login or run scp command  we set ssh k
 On your client enter ssh-keygen command then enter the file to save the key. Then it will prompt for enter passphrase which should be left empty. After that follow the following commands
 “ssh cs15lsp22zz@ieng6.ucsd.edu
 Enter Password
+
 #now on server
+
 $ mkdir .ssh
+
 $ logout
+
 #back on client
+
 $ scp /Users/user-name/.ssh/id_rsa.pub
+
 cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys”
 
 ![LAB1-6](https://user-images.githubusercontent.com/103228599/162647147-bc544f73-3415-4040-b2f0-08d4d0f648af.png)
