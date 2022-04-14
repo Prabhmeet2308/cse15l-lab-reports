@@ -14,7 +14,7 @@ This is what the VSC looks like
  **Remotely Connect**
  
 To remotely connect you would need the course specific account for CSE 15L class 
-Then open the terminal and type the following command “ ssh cs15lsp22zz@ieng6.ucsd.edu ” and replace zz with your course specific account
+Then open the terminal and type the following command ``` ssh cs15lsp22zz@ieng6.ucsd.edu ``` and replace zz with your course specific account
 After this if it is your first time connecting to a server you will get a message about authenticity reply yes to that message.
 
 ![LAB1-2](https://user-images.githubusercontent.com/103228599/162647047-1d002966-fdd1-402b-8969-7c028a356429.png)
@@ -33,7 +33,7 @@ After successfully logging in try some commands on both your computer and the re
 **Moving files with scp**
 
 We’ll now see another way to copy a file (or many files!) from your computer to a remotecomputer. The command is called scp. We run it from client that is your computer. Take a file say WhereAmI.java for example the command would be 
-scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/ (replace zz with account name)
+```scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/``` (replace zz with account name)
 It will prompt you for ieng6 password and use ls to check if the file was transferred
 
  ![LAB1-5](https://user-images.githubusercontent.com/103228599/162647137-8034f546-d104-450d-9a6d-d7858bf40969.png)
