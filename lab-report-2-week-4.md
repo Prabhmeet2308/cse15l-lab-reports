@@ -11,8 +11,9 @@ For lab report 2 we worked together with our group to debug and improve a progra
 
 * **Change three**- Adding if statement to insure no invalid characters are present in the list
  <img width="1023" alt="Screenshot 2022-04-24 at 10 09 55 PM" src="https://user-images.githubusercontent.com/103228599/165024425-2f64c88a-7800-4eaa-be79-7a259e934b08.png">
- 
-## Error Inducing Test file
+
+ ## Error Inducing Test file
+
  **Change 1**- Since the first link started but never ended the it was stuck in an infinite loop which made us add if loops to break if parameter not found
  
  [myfile.md](https://github.com/Prabhmeet2308/markdown-parser/blob/main/myfile.md)
@@ -22,8 +23,9 @@ For lab report 2 we worked together with our group to debug and improve a progra
  **Change 3**- The program doesn't make sure that the link exist one. We wanted to improve on one factors to remove invalid links is links which cotain characters that cannot be used in a link like \[ \] { }
  
  [myfile2.md](https://github.com/Prabhmeet2308/markdown-parser/blob/main/myfile2.md)
- 
+
 ## Symptoms of the Errors
+
 * **Error before Change 1**
 
   <img width="714" alt="Screenshot 2022-04-24 at 10 49 34 PM" src="https://user-images.githubusercontent.com/103228599/165028124-c397b976-46bc-4599-8683-fad0705b57a5.png">
