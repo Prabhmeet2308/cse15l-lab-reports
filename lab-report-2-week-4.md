@@ -19,12 +19,12 @@ For lab report 2 we worked together with our group to debug and improve a progra
  **Change 3**- The program doesn't make sure that the link exist one. We wanted to improve on one factors to remove invalid links is links which cotain characters that cannot be used in a link like \[ \] { }
  https://github.com/Prabhmeet2308/markdown-parser/blob/main/myfile2.md
  
- ##Symptoms of the Errors
+ ## Symptoms of the Errors
  * **Error before Change 1**
- <img width="714" alt="Screenshot 2022-04-24 at 10 49 34 PM" src="https://user-images.githubusercontent.com/103228599/165028124-c397b976-46bc-4599-8683-fad0705b57a5.png">
+  <img width="714" alt="Screenshot 2022-04-24 at 10 49 34 PM" src="https://user-images.githubusercontent.com/103228599/165028124-c397b976-46bc-4599-8683-fad0705b57a5.png">
  * **Error before change 2**
- <img width="814" alt="Screenshot 2022-04-24 at 10 50 48 PM" src="https://user-images.githubusercontent.com/103228599/165028274-0e997a44-5eb0-4bf7-b913-9da29c7d62e9.png">
-* **Error before change 3**
+  <img width="814" alt="Screenshot 2022-04-24 at 10 50 48 PM" src="https://user-images.githubusercontent.com/103228599/165028274-0e997a44-5eb0-4bf7-b913-9da29c7d62e9.png">
+ * **Error before change 3**
 <img width="567" alt="Screenshot 2022-04-24 at 10 53 28 PM" src="https://user-images.githubusercontent.com/103228599/165028566-48066b9d-86a5-40b0-8c0d-36ff40b40429.png">
 
 
