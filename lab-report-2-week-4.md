@@ -12,7 +12,7 @@ For lab report 2 we worked together with our group to debug and improve a progra
 * **Change three**- Adding if statement to insure no invalid characters are present in the list
   <img width="1023" alt="Screenshot 2022-04-24 at 10 09 55 PM" src="https://user-images.githubusercontent.com/103228599/165024425-2f64c88a-7800-4eaa-be79-7a259e934b08.png">
   
-
+  
 ## Error Inducing Test file
 
  **Change 1**- Since the first link started but never ended the it was stuck in an infinite loop which made us add if loops to break if parameter not found
