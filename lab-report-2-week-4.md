@@ -14,10 +14,14 @@ For lab report 2 we worked together with our group to debug and improve a progra
  
  ## Error Inducing Test file
  **Change 1**- Since the first link started but never ended the it was stuck in an infinite loop which made us add if loops to break if parameter not found
- https://github.com/Prabhmeet2308/markdown-parser/blob/main/myfile.md
+ 
+ [myfile.md](https://github.com/Prabhmeet2308/markdown-parser/blob/main/myfile.md)
+ 
  **Change 2**- It was an error which was made to insure a file was inputted no error inducing test file
+ 
  **Change 3**- The program doesn't make sure that the link exist one. We wanted to improve on one factors to remove invalid links is links which cotain characters that cannot be used in a link like \[ \] { }
- https://github.com/Prabhmeet2308/markdown-parser/blob/main/myfile2.md
+ 
+ [myfile2.md](https://github.com/Prabhmeet2308/markdown-parser/blob/main/myfile2.md)
  
  ## Symptoms of the Errors
 * **Error before Change 1**
