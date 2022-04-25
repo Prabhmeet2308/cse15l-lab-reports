@@ -1,4 +1,4 @@
-# Lab report 2!
+# Lab report 2
 For lab report 2 we worked together with our group to debug and improve a program by making 3 changes to it.
 ## Orignal Code 
 <img width="818" alt="Screenshot 2022-04-24 at 9 41 07 PM" src="https://user-images.githubusercontent.com/103228599/165022049-717b6546-3e90-4c25-aa86-0ce8349af3c0.png">
