@@ -27,6 +27,8 @@ For lab report 2 we worked together with our group to debug and improve a progra
 
   <img width="814" alt="Screenshot 2022-04-24 at 10 50 48 PM" src="https://user-images.githubusercontent.com/103228599/165028274-0e997a44-5eb0-4bf7-b913-9da29c7d62e9.png">
 * **Error before change 3**
+
+
   <img width="567" alt="Screenshot 2022-04-24 at 10 53 28 PM" src="https://user-images.githubusercontent.com/103228599/165028566-48066b9d-86a5-40b0-8c0d-36ff40b40429.png">
 
 
