@@ -22,6 +22,7 @@ For lab report 2 we worked together with our group to debug and improve a progra
  [myfile.md](https://github.com/Prabhmeet2308/markdown-parser/blob/main/myfile.md)
  
  **Change 2**- It was an error which was made to insure a file was inputted which was not empty.
+ 
  [empty.md](https://github.com/Prabhmeet2308/markdown-parser/blob/main/empty.md)
  
  
