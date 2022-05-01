@@ -6,8 +6,10 @@ For lab report 2 we worked together with our group to debug and improve a progra
 ## Updates made in the file
 * **Change one**- Adding if condition for each bracket and parenthesis which breaks if not found(-1)
  ![WhatsApp Image 2022-04-24 at 9 54 02 PM](https://user-images.githubusercontent.com/103228599/165023226-cfddc9f7-af29-4bf0-9677-29f980072795.jpeg)
-* **Change two**- Adding if statement in main to avoid no input
+* **Change two**- Adding if statement in main to avoid no input or file with no input
    <img width="661" alt="Screenshot 2022-04-24 at 10 15 26 PM" src="https://user-images.githubusercontent.com/103228599/165024843-8e05956a-57f8-4d8e-9c52-e00c9c90aa56.png">
+   <img width="588" alt="Screenshot 2022-04-30 at 8 20 45 PM" src="https://user-images.githubusercontent.com/103228599/166130778-bbe0796a-c1f2-496d-a13f-e0fb9cca95a9.png">
+
 
 * **Change three**- Adding if statement to insure no invalid characters are present in the list
   <img width="1023" alt="Screenshot 2022-04-24 at 10 09 55 PM" src="https://user-images.githubusercontent.com/103228599/165024425-2f64c88a-7800-4eaa-be79-7a259e934b08.png">
