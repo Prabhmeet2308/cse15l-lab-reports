@@ -21,7 +21,9 @@ For lab report 2 we worked together with our group to debug and improve a progra
  
  [myfile.md](https://github.com/Prabhmeet2308/markdown-parser/blob/main/myfile.md)
  
- **Change 2**- It was an error which was made to insure a file was inputted no error inducing test file
+ **Change 2**- It was an error which was made to insure a file was inputted which was not empty.
+ [empty.md](https://github.com/Prabhmeet2308/markdown-parser/blob/main/empty.md)
+ 
  
  **Change 3**- The program doesn't make sure that the link exist one. We wanted to improve on one factors to remove invalid links is links which cotain characters that cannot be used in a link like \[ \] { }
  
@@ -35,6 +37,8 @@ For lab report 2 we worked together with our group to debug and improve a progra
 * **Error before change 2**
 
   <img width="814" alt="Screenshot 2022-04-24 at 10 50 48 PM" src="https://user-images.githubusercontent.com/103228599/165028274-0e997a44-5eb0-4bf7-b913-9da29c7d62e9.png">
+  <img width="671" alt="Screenshot 2022-04-30 at 8 18 06 PM" src="https://user-images.githubusercontent.com/103228599/166130873-351355f3-f8d8-4e36-8963-dd6b6ab2d228.png">
+
 * **Error before change 3**
 
 
