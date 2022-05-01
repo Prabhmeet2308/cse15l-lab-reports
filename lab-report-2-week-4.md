@@ -53,7 +53,7 @@ For lab report 2 we worked together with our group to debug and improve a progra
 
 
 ### Error 2: No arguments provided
-**Bug:** The code lacked a way to deal with a situation if no argument was provided to getlinks method
+**Bug:** The code lacked a way to deal with a situation if no argument or was provided an empty file to getlinks method
 
 **Symptom:** The symptom was an error message not allowing for the code to compile with a ArrayIndexOutOfBoundsException
 
