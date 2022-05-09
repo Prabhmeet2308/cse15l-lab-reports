@@ -44,4 +44,7 @@ To set up ssh key access on github go to Setting -> SSH and GPG keys.
 
 
 ### Combining scp
+<img width="1146" alt="Screenshot 2022-05-08 at 11 29 27 PM" src="https://user-images.githubusercontent.com/103228599/167352681-c85bf597-e727-428f-84c5-3b29b0a5863a.png">
+<img width="1136" alt="Screenshot 2022-05-08 at 11 29 42 PM" src="https://user-images.githubusercontent.com/103228599/167352710-86d131be-89dd-40a2-8725-8b6429869cac.png">
+
 
