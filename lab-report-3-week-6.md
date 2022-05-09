@@ -35,8 +35,8 @@ To set up ssh key access on github go to Setting -> SSH and GPG keys.
 
 ## Copy whole directories with scp -r
 ### Copying markdown-parse
-
-
+<img width="1151" alt="Screenshot 2022-05-08 at 11 24 57 PM" src="https://user-images.githubusercontent.com/103228599/167352148-89919f62-5afa-4c5f-8738-5d8e3ced53c9.png">
+<img width="1134" alt="Screenshot 2022-05-08 at 11 25 36 PM" src="https://user-images.githubusercontent.com/103228599/167352211-45411b80-991c-4a99-b3d3-2f2139448d38.png">
 
 
 ### Running tests
