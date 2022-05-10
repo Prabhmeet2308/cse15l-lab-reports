@@ -35,10 +35,10 @@ First we needed to get our ssh public key. So in order to do that you first need
 
 
 ## Copy whole directories with scp -r
-We can use scp to copy a directory(represented by.) to the remote server. We also have to give a name of the directory we want it to copy into on the remote server:
+We can use scp to copy a directory(represented by .) to the remote server. We also have to give a name of the directory we want it to copy into on the remote server:
 ```"$ scp -r . cs15lsp22@ieng6.ucsd.edu:~/markdown-parse"```
-The ```"-r"``` option tell sscp to work recursively. The . is the source, and is the current directory. The ~/markdown-parse tellsscp to create the markdown-parse directory on the remote server (if it doesn’t exist), and then copy the contents of this directory recursively there.
-If we do this, then we can log into the server with ssh and see all of our files there in a
+The ```"-r"``` option tells ```"scp"``` to work recursively. The ```"."``` is the source, and is the current directory. The ```"~/markdown-parse"``` tells scp to create the markdown-parse directory on the remote server (if it doesn’t exist), and then copy the contents of this directory recursively there.
+If we do this, then we can log into the server with ```"ssh"``` and see all of our files there in a
 directory called markdown-parse:
 ### Copying markdown-parse
 <img width="1151" alt="Screenshot 2022-05-08 at 11 24 57 PM" src="https://user-images.githubusercontent.com/103228599/167352148-89919f62-5afa-4c5f-8738-5d8e3ced53c9.png">
