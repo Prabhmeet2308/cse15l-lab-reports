@@ -2,7 +2,7 @@
 
 
 ## Streamlining ssh Configuration
-
+We first opened our terminal where we typed ```cd .ssh``` to go into our ```.ssh```  files. We then used the ```vim```command to make a new file called ```"config"``` where we typed in our ssh username and host. We saved and exited the new file by pressing esc key then inputting ```":wq!"```. At that point, all we needed to do was type in ```"ssh ieng6"``` into the command line, and it automatically connects us to the other server.
 ### Config File
 ![WhatsApp Image 2022-05-07 at 5 51 39 PM](https://user-images.githubusercontent.com/103228599/167344014-9bdc21ab-33f3-4620-bd03-60cef00b5fa3.jpeg)
 
@@ -19,7 +19,7 @@
 ## Setup Github Access from ieng6
 
 ### Public Key on Github
-To set up ssh key access on github go to Setting -> SSH and GPG keys. 
+First we needed to get our ssh public key. So in order to do that you first need to go to your terminal, type in ```cd .ssh``` and then ```ls.``` If any of the files named: ```id_rsa.pub, id_ecdsa.pub, id_ed25519.pub``` are there; then just type ```pbcopy<~/.ssh/(filename)``` to copy it. Mine was ```pbcopy<~/.ssh/id_rsa.pub```. Note that the ones with ```.pub``` are the public SSH keys.
 
 ![WhatsApp Image 2022-05-07 at 5 54 14 PM](https://user-images.githubusercontent.com/103228599/167344322-d81e68ec-0e3b-42d7-9593-f175c38f4399.jpeg)
 
@@ -30,7 +30,7 @@ To set up ssh key access on github go to Setting -> SSH and GPG keys.
 
 ### Running git Commmands
 <img width="916" alt="Screenshot 2022-05-08 at 10 16 14 PM" src="https://user-images.githubusercontent.com/103228599/167345015-09ce77e7-b459-4a27-a8f0-b800c4252642.png">
-
+[link to the resulting commit](https://github.com/Prabhmeet2308/markdown-parser/commit/f2a1149135dfd6f1e15432b339b2c6f725177e63)
 
 
 ## Copy whole directories with scp -r
