@@ -32,7 +32,7 @@ Then go to Github page from there go to settings-> SSH and GPG keys-->click on t
 ### Running git Commmands
 <img width="916" alt="Screenshot 2022-05-08 at 10 16 14 PM" src="https://user-images.githubusercontent.com/103228599/167345015-09ce77e7-b459-4a27-a8f0-b800c4252642.png">
 
-## [link to the resulting commit](https://github.com/Prabhmeet2308/markdown-parser/commit/f2a1149135dfd6f1e15432b339b2c6f725177e63)
+### [link to the resulting commit](https://github.com/Prabhmeet2308/markdown-parser/commit/f2a1149135dfd6f1e15432b339b2c6f725177e63)
 
 
 ## Copy whole directories with scp -r
