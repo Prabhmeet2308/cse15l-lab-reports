@@ -20,6 +20,7 @@ We first opened our terminal where we typed ```cd .ssh``` to go into our ```.ssh
 
 ### Public Key on Github
 First we needed to get our ssh public key. So in order to do that you first need to go to your terminal, type in ```cd .ssh``` and then ```ls.``` If any of the files named: ```id_rsa.pub, id_ecdsa.pub, id_ed25519.pub``` are there; then just type ```pbcopy<~/.ssh/(filename)``` to copy it. Mine was ```pbcopy<~/.ssh/id_rsa.pub```. Note that the ones with ```.pub``` are the public SSH keys.
+Then go to Github page from there go to settings-> SSH and GPG keys-->click on the green "New SSH key" button. It will then ask you for the title(which can be anything), and the actual key itself, that is what you just copied.
 
 ![WhatsApp Image 2022-05-07 at 5 54 14 PM](https://user-images.githubusercontent.com/103228599/167344322-d81e68ec-0e3b-42d7-9593-f175c38f4399.jpeg)
 
