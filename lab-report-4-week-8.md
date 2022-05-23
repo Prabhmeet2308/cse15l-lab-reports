@@ -1,7 +1,6 @@
 # Lab Report 4
-[Main Page](https://hsflores7.github.io/cse15l-lab-reports/index.html)
 
-[My Markdown Repo](https://github.com/hsflores7/markdown-parser)
+[My Markdown Repo](https://github.com/Prabhmeet2308/markdown-parser)
 
 [Other Group Markdown Repo](https://github.com/ehsly/markdown-parser)
 
