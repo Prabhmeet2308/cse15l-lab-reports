@@ -50,7 +50,9 @@ if they are equivalent
 ![my repo tester 2](report4-snips/Screenshot%202022-05-22%20122932.png)
 
 ### My Repo Output
+
 ![WhatsApp Image 2022-05-22 at 9 09 14 PM (1)](https://user-images.githubusercontent.com/103228599/169741776-44cba3d0-6ae7-4a51-a208-4774631438ee.jpeg)
+
 ### Their Repo Output
 ![theirop2](report4-snips/theirFail2.png)
 
@@ -73,10 +75,10 @@ Gets the path of file, then it reads the file. Then it runs the getLinks method
 on the file. Following that it makes a list of the expected output. Then tests 
 if they are equivalent
 
-![myTest3](report4-snips/myTest3.png)
+![WhatsApp Image 2022-05-22 at 9 09 14 PM (2)](https://user-images.githubusercontent.com/103228599/169741783-96aba29a-0ed9-4440-93d5-a4d249abd644.jpeg)
 
 ### My Repo Output
-![WhatsApp Image 2022-05-22 at 9 09 14 PM (2)](https://user-images.githubusercontent.com/103228599/169741783-96aba29a-0ed9-4440-93d5-a4d249abd644.jpeg)
+
 
 ### Their Repo Output
 ![myop3](report4-snips/theirFail3.png)
