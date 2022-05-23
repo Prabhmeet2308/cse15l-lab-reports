@@ -13,9 +13,7 @@ There is 1 link: `another link`
 **MarkdownParse:** [&#96;google.com]
 
 ### Tester
-Gets the path of file, then it reads the file. Then it runs the getLinks method 
-on the file. Following that it makes a list of the expected output. Then tests 
-if they are equivalent
+
 
 ![my repo tester 1](https://user-images.githubusercontent.com/103228599/169741609-8476925e-055c-4e06-9b5f-aeeb967d5ee9.jpeg))
 
@@ -29,7 +27,7 @@ if they are equivalent
 The main problems arrises when the back ticks are used. So creating method to 
 deal with the code blocks. We would want to ignore anything in a code block.
 So creating a method that removes actual code segments/block from the getLinks 
-method, being careful to no remove ones like the [another link](`google.com)` 
+method, being careful to no remove ones like the [another link](`google.com)&#96;
 example because it doesn't actually function as a code segment because of the 
 brackets.
 
@@ -43,9 +41,7 @@ There are 3 links: `nested link`, `a nested paranthesized url`, and `some escape
 **MarkdownParse:** [a.com, a.com(()), example.com]
 
 ### Tester
-Gets the path of file, then it reads the file. Then it runs the getLinks method 
-on the file. Following that it makes a list of the expected output. Then tests 
-if they are equivalent
+
 
 ![WhatsApp Image 2022-05-22 at 9 09 14 PM (1)](https://user-images.githubusercontent.com/103228599/169741776-44cba3d0-6ae7-4a51-a208-4774631438ee.jpeg)
 
@@ -71,9 +67,6 @@ There is 3 links: `this title text is really long and takes up more than one lin
 **MarkdownParse:** [https://www.twitter.com, https://cse.ucsd.edu/]
 
 ### Tester
-Gets the path of file, then it reads the file. Then it runs the getLinks method 
-on the file. Following that it makes a list of the expected output. Then tests 
-if they are equivalent
 
 ![WhatsApp Image 2022-05-22 at 9 09 14 PM (2)](https://user-images.githubusercontent.com/103228599/169741783-96aba29a-0ed9-4440-93d5-a4d249abd644.jpeg)
 
