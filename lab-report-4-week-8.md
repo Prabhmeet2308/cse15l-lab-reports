@@ -20,7 +20,7 @@ if they are equivalent
 ![my repo tester 1](https://user-images.githubusercontent.com/103228599/169741609-8476925e-055c-4e06-9b5f-aeeb967d5ee9.jpeg))
 
 ### My Repo Output
-![WhatsApp Image 2022-05-22 at 9 09 14 PM](https://user-images.githubusercontent.com/103228599/169742593-4f4a9185-7d5b-448b-9324-70dac0034990.jpeg)
+![WhatsApp Image 2022-05-22 at 9 20 31 PM](https://user-images.githubusercontent.com/103228599/169742776-5eb5e8cc-5667-4aeb-b521-0d0a190baf56.jpeg)
 
 ### Their Repo Output
 ![theirop1](report4-snips/theirFail1.png)
@@ -51,7 +51,7 @@ if they are equivalent
 
 ### My Repo Output
 
-![WhatsApp Image 2022-05-22 at 9 09 14 PM (1)](https://user-images.githubusercontent.com/103228599/169742614-a02ab104-f2d6-475b-a496-1f81a36804b5.jpeg)
+![WhatsApp Image 2022-05-22 at 9 20 31 PM (1)](https://user-images.githubusercontent.com/103228599/169742793-88bb12f3-0f9c-4620-a433-a90921938917.jpeg)
 
 ### Their Repo Output
 ![theirop2](report4-snips/theirFail2.png)
@@ -78,7 +78,8 @@ if they are equivalent
 ![WhatsApp Image 2022-05-22 at 9 09 14 PM (2)](https://user-images.githubusercontent.com/103228599/169741783-96aba29a-0ed9-4440-93d5-a4d249abd644.jpeg)
 
 ### My Repo Output
-![WhatsApp Image 2022-05-22 at 9 09 14 PM (2)](https://user-images.githubusercontent.com/103228599/169742624-deb0a743-3419-4df9-a543-0ea7c3167a86.jpeg)
+![WhatsApp Image 2022-05-22 at 9 20 31 PM (2)](https://user-images.githubusercontent.com/103228599/169742824-fc4f25c8-e518-4051-96d7-4f4e25768cc6.jpeg)
+
 
 ### Their Repo Output
 ![myop3](report4-snips/theirFail3.png)
