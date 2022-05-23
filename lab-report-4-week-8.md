@@ -6,7 +6,7 @@
 
 ## Snippet 1
 ### Expected
-![expected snip one output](report4-snips/snip-1-exp.png)
+![expected snip one output](<img width="390" alt="Screenshot 2022-05-22 at 9 03 12 PM" src="https://user-images.githubusercontent.com/103228599/169741109-14841253-7abc-4a2f-8e49-72c7ced38408.png">)
 
 There is 1 link: `another link`
 
