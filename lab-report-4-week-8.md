@@ -17,7 +17,7 @@ Gets the path of file, then it reads the file. Then it runs the getLinks method
 on the file. Following that it makes a list of the expected output. Then tests 
 if they are equivalent
 
-![my repo tester 1](report4-snips/Screenshot%202022-05-22%20122002.png)
+![my repo tester 1](https://user-images.githubusercontent.com/103228599/169741609-8476925e-055c-4e06-9b5f-aeeb967d5ee9.jpeg))
 
 ### My Repo Output
 ![myop1](report4-snips/myFail1.png)
