@@ -23,7 +23,7 @@ if they are equivalent
 ![WhatsApp Image 2022-05-22 at 9 20 31 PM](https://user-images.githubusercontent.com/103228599/169742776-5eb5e8cc-5667-4aeb-b521-0d0a190baf56.jpeg)
 
 ### Their Repo Output
-![theirop1](report4-snips/theirFail1.png)
+![WhatsApp Image 2022-05-22 at 10 00 42 PM](https://user-images.githubusercontent.com/103228599/169746848-8d2abe62-7ed9-46c3-b75c-de8a741ddea4.jpeg)
 
 ### Fix
 The main problems arrises when the back ticks are used. So creating method to 
@@ -54,7 +54,7 @@ if they are equivalent
 ![WhatsApp Image 2022-05-22 at 9 20 31 PM (1)](https://user-images.githubusercontent.com/103228599/169742793-88bb12f3-0f9c-4620-a433-a90921938917.jpeg)
 
 ### Their Repo Output
-![theirop2](report4-snips/theirFail2.png)
+![WhatsApp Image 2022-05-22 at 10 00 42 PM (1)](https://user-images.githubusercontent.com/103228599/169746873-cf905cd4-0ffb-4004-ba7b-d6cd04556030.jpeg)
 
 ### Fix
 The main problem with snippet 2 is the parantheses inside the link, which we 
@@ -82,7 +82,7 @@ if they are equivalent
 
 
 ### Their Repo Output
-![myop3](report4-snips/theirFail3.png)
+![WhatsApp Image 2022-05-22 at 10 00 42 PM (2)](https://user-images.githubusercontent.com/103228599/169746885-7b91e07b-2d78-4e5e-b664-a03b140b1558.jpeg)
 
 ### Fix
 The main problems is dealing with new lines (\n) so when creating the list of
