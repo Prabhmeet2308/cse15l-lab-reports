@@ -10,7 +10,7 @@
 
 There is 1 link: `another link`
 
-**MarkdownParse:** [60%google.com]
+**MarkdownParse:** [&#96;google.com]
 
 ### Tester
 Gets the path of file, then it reads the file. Then it runs the getLinks method 
