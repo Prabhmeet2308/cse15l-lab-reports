@@ -36,7 +36,7 @@ brackets.
 
 ## Snippet 2
 ### Expected
-![exp snip 2](report4-snips/Screenshot%202022-05-21%20142857.png)
+![WhatsApp Image 2022-05-22 at 9 46 46 PM](https://user-images.githubusercontent.com/103228599/169745345-8da3cba7-37a6-4d48-8f04-f3f581bcf35a.jpeg)
 
 There are 3 links: `nested link`, `a nested paranthesized url`, and `some escaped [ bracket ]`
 
@@ -64,7 +64,7 @@ structure) in order to keep track of the parentheses.
 
 ## Snipet 3
 ### Expected
-![exp snip 3](report4-snips/Screenshot%202022-05-21%20143254.png)
+![WhatsApp Image 2022-05-22 at 9 47 00 PM](https://user-images.githubusercontent.com/103228599/169745360-f29fc994-662e-48e9-86a3-7224e696c556.jpeg)
 
 There is 3 links: `this title text is really long and takes up more than one line and has some line breaks`, `https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedu` (this one doesn't use the markdown formatting it's just a link), `this link doesn't have a closing parenthesis for a while` 
 
