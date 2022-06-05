@@ -14,7 +14,7 @@ Then use `cp -r cse15lsp22-markdown-parser/test-files my-markdown-parser/` and `
 Finally , use the command `$ vimdiff my-markdown-parser/results.txt cse15lsp22-markdown-parser/results.txt` to use vimdiff to compare the 2 result files to see the differences between the results.
 
 ## Vimdiff 
-[link to file with results](https://github.com/Prabhmeet2308/markdown-parser/blob/main/results.txt)
+[link to file with results](https://github.com/Prabhmeet2308/markdown-parser/blob/main/results.txt)  
 A pattern that can be seen throughout the results is that my Markdown-Parse had extra results while the downloaded Markdown-Parser had just `[]`. 
 
 ![vimdiff results](https://user-images.githubusercontent.com/103228599/172040087-d623b209-bc7a-463e-b956-d8369cdccf7d.jpeg)
