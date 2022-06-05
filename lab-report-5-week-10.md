@@ -20,7 +20,7 @@ A pattern that can be seen throughout the results is that my Markdown-Parse had 
 ![vimdiff results](https://user-images.githubusercontent.com/103228599/172040087-d623b209-bc7a-463e-b956-d8369cdccf7d.jpeg)
 
 
-All the ones you see above, the test case were in the correct format of `[]()`. However, depeneding on how the link was written, the downloaded Markdown would not print, while my Markdown printed everything regardless. For example `test-file 507` was: 
+All the ones you see above, the test case were in the correct format of `[]()`. However, depeneding on how the link was written, the downloaded Markdown would not print, while my Markdown printed everything regardless.
 
 ### Expected Output  
 
@@ -28,7 +28,9 @@ All the ones you see above, the test case were in the correct format of `[]()`. 
 
 
 
-I was supoosed to not print anything, but my Markdown only recognizes the correct format so it prints it as a link. This would be the common problem seen throughout the lab.
+The links printed for test 506 and %08 are vald that is my markdown parse is working correctly whereas there is a bug in the given markdown-parser.
+For test 507
+
 
 ## Conclusion
 
