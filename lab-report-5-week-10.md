@@ -20,7 +20,7 @@ A pattern that can be seen throughout the results is that my Markdown-Parse had 
 ![vimdiff results](https://user-images.githubusercontent.com/103228599/172040087-d623b209-bc7a-463e-b956-d8369cdccf7d.jpeg)
 
 
-All the ones you see above, the test case were in the correct format of `[]()`. However, depeneding on how the link was written, the downloaded Markdown would somtimes not print, while my Markdown printed everything regardless. For example `test-file 567` was: 
+All the ones you see above, the test case were in the correct format of `[]()`. However, depeneding on how the link was written, the downloaded Markdown would not print, while my Markdown printed everything regardless. For example `test-file 507` was: 
 
 <img width="663" alt="Screen Shot 2022-06-02 at 10 55 39 AM" src="https://user-images.githubusercontent.com/103228539/171695624-2720d551-c325-4bf4-bf26-0718b81b0f8b.png">
 
