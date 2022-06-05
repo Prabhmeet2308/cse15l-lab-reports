@@ -32,6 +32,11 @@ The links printed for test 506 and 508 are vald that is my markdown parse is wor
 For test 507 there are 2 set of double quoatations which make it an invalid link which my my markdown-parse did not recognize as a condition.
 
 
+![WhatsApp Image 2022-06-05 at 12 43 17 AM](https://user-images.githubusercontent.com/103228599/172040758-8a0c51b5-7e9a-416e-8525-012b49f9993c.jpeg)
+
+A condition should be added after this to check if there are 2 sets of double quotation within the link and if yes make the link invalid if not let the link pass the test and return.
+
+
 ## Conclusion
 
 This then concluded our 9th CSE15L lab on using a script to run many files and comparing two implementations
