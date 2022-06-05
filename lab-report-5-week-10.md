@@ -17,7 +17,7 @@ Finally , use the command `$ vimdiff my-markdown-parser/results.txt cse15lsp22-m
 
 A pattern that can be seen throughout the results is that my Markdown-Parse had extra results while the downloaded Markdown-Parser had just `[]`. 
 
-<img width="960" alt="vimdiff2 0" src="https://user-images.githubusercontent.com/103228539/171694796-ac028fcb-6bc0-487b-a316-3faeebbbc436.png">
+![WhatsApp Image 2022-06-04 at 5 12 32 PM (1)](https://user-images.githubusercontent.com/103228599/172039889-7c90c2f2-ea24-436f-85fc-f664d1325a62.jpeg)![WhatsApp Image 2022-06-04 at 5 12 32 PM](https://user-images.githubusercontent.com/103228599/172039890-1a29dea9-5956-429b-bb00-e92b1e3c4f29.jpeg)
 
 All the ones you see above, the test case were in the correct format of `[]()`. However, depeneding on how the link was written, the downloaded Markdown would somtimes not print, while my Markdown printed everything regardless. For example `test-file 567` was: 
 
