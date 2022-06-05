@@ -29,7 +29,7 @@ All the ones you see above, the test case were in the correct format of `[]()`. 
 
 
 The links printed for test 506 and %08 are vald that is my markdown parse is working correctly whereas there is a bug in the given markdown-parser.
-For test 507
+For test 507 there are 2 set of double quoatations which make it an invalid link which my my markdown-parse did not recognize as a condition.
 
 
 ## Conclusion
