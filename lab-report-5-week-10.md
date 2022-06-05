@@ -22,11 +22,11 @@ A pattern that can be seen throughout the results is that my Markdown-Parse had 
 
 All the ones you see above, the test case were in the correct format of `[]()`. However, depeneding on how the link was written, the downloaded Markdown would not print, while my Markdown printed everything regardless. For example `test-file 507` was: 
 
-<img width="663" alt="Screen Shot 2022-06-02 at 10 55 39 AM" src="https://user-images.githubusercontent.com/103228539/171695624-2720d551-c325-4bf4-bf26-0718b81b0f8b.png">
+### Expected Output  
 
-And here are the differences in the results:
+![WhatsApp Image 2022-06-05 at 12 28 52 AM](https://user-images.githubusercontent.com/103228599/172040356-a11e38e0-e827-457f-80b6-69665f21930f.jpeg)
 
-<img width="975" alt="vimdiff3" src="https://user-images.githubusercontent.com/103228539/171695760-8d457130-45e8-43be-97b1-f1559bc4475b.png">
+
 
 I was supoosed to not print anything, but my Markdown only recognizes the correct format so it prints it as a link. This would be the common problem seen throughout the lab.
 
