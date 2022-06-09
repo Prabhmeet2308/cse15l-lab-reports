@@ -26,10 +26,12 @@ All the ones you see above, the test case were in the correct format of `[]()`. 
 
 ![WhatsApp Image 2022-06-05 at 12 28 52 AM](https://user-images.githubusercontent.com/103228599/172040356-a11e38e0-e827-457f-80b6-69665f21930f.jpeg)
 
+[link for test-file 508](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/508.md)  
+The links printed for test 508 is valid that is my markdown parse is working correctly whereas there is a bug in the given markdown-parser.
+
 [link for test-file 507](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/507.md)
 
-The links printed for test 506 and 508 are valid that is my markdown parse is working correctly whereas there is a bug in the given markdown-parser.
-For test 507 there are 2 set of double quoatations which make it an invalid link which my my markdown-parse did not recognize as a condition.
+For test 507 the given markdown-parser gives correct result whereas my markdown-parse gives the incorrect result. There are 2 set of double quoatations which make it an invalid link which my my markdown-parse did not recognize as a condition.
 
 
 ![WhatsApp Image 2022-06-05 at 12 43 17 AM](https://user-images.githubusercontent.com/103228599/172040758-8a0c51b5-7e9a-416e-8525-012b49f9993c.jpeg)
