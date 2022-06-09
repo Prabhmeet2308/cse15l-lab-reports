@@ -27,7 +27,10 @@ All the ones you see above, the test case were in the correct format of `[]()`. 
 ![WhatsApp Image 2022-06-05 at 12 28 52 AM](https://user-images.githubusercontent.com/103228599/172040356-a11e38e0-e827-457f-80b6-69665f21930f.jpeg)
 
 [link for test-file 508](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/508.md)  
-The links printed for test 508 is valid that is my markdown parse is working correctly whereas there is a bug in the given markdown-parser.
+The links printed for test 508 is valid that is my markdown parse is working correctly whereas there is a bug in the given markdown-parser. The implementation doesn't include link which contain ``" "`` therefore it does not include it in the link
+
+![WhatsApp Image 2022-06-09 at 1 55 24 PM](https://user-images.githubusercontent.com/103228599/172942865-5f11fec2-95a7-493f-9f5b-fad86a33401a.jpeg)
+
 
 [link for test-file 507](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/507.md)
 
